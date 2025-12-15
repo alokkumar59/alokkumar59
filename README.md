@@ -1,7 +1,7 @@
 # Hi, I’m Alok Kumar 👋
-**Java Full Stack Developer | Web & Android Applications**
+**Java Full Stack Developer | Web Applications**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alokkumar59)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alokkumar866713)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alokkumar59)
 
 ---
@@ -18,14 +18,13 @@
 ## 🌱 Currently Learning
 - Advanced **React and Frontend Architecture**  
 - **Cloud Integration** with Spring Boot apps  
-- **Android App Development** with Java & Kotlin  
 
 ---
 
 ## 💻 Projects
 - **Sunsys Global Website** – Full-stack website with Java, Spring Boot, React; responsive design & modern UI  
-- **School Management App** – Java-based Android app with Admin, Teacher, and Student modules  
-- **Farmers Helper App** – Android app providing crop updates, market prices, and shop/buyer addresses  
+- **School Management Web App** – Java-based web application with Admin, Teacher, and Student modules  
+- **Voting Survey Web App** – Web application for creating surveys and collecting votes  
 
 ---
 
